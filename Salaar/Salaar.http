@@ -1,0 +1,6 @@
+@Salaar_HostAddress = http://localhost:5094
+
+GET {{Salaar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
